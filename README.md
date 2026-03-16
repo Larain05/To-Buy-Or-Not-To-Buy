@@ -18,11 +18,11 @@ We built a responsive web interface using Python and Streamlit to make the proba
 
 ### Predicting "Yes" (Buy)
 
-![App Interface UI - Yes Prediction](replace_with_your_yes_gif_filename.gif)
+![App Interface UI - Yes Prediction](Yes.gif)
 
 ### Predicting "No" (Do Not Buy)
 
-![App Interface UI - No Prediction](replace_with_your_no_gif_filename.gif)
+![App Interface UI - No Prediction](No.gif)
 
 ## Conclusion
 
