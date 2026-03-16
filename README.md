@@ -16,13 +16,9 @@ We surveyed respondents about their most recent decisions at a carenderia to gat
 
 We built a responsive web interface using Python and Streamlit to make the probability calculations interactive and accessible. Below are demonstrations of the application predicting both outcomes based on different environmental inputs.
 
-### Predicting "Yes" (Buy)
-
-![App Interface UI - Yes Prediction](Yes.gif)
-
-### Predicting "No" (Do Not Buy)
-
-![App Interface UI - No Prediction](No.gif)
+|            Predicting "Yes" (Buy)             |        Predicting "No" (Do Not Buy)         |
+| :-------------------------------------------: | :-----------------------------------------: |
+| ![App Interface UI - Yes Prediction](Yes.gif) | ![App Interface UI - No Prediction](No.gif) |
 
 ## Conclusion
 
