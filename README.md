@@ -10,15 +10,24 @@ This application analyzes whether a student will buy viand based on five environ
 
 We surveyed respondents about their most recent decisions at a carenderia to gather real-world contingency data, ensuring an equal split of 15 "Yes" and 15 "No" scenarios to prevent model bias.
 
-![Raw Survey Data](rawdata.png)
+![Raw Survey Data](assets/rawdata.png)
 
 ## The Application
 
 We built a responsive web interface using Python and Streamlit to make the probability calculations interactive and accessible. Below are demonstrations of the application predicting both outcomes based on different environmental inputs.
 
-|            Predicting "Yes" (Buy)             |        Predicting "No" (Do Not Buy)         |
-| :-------------------------------------------: | :-----------------------------------------: |
-| ![App Interface UI - Yes Prediction](Yes.gif) | ![App Interface UI - No Prediction](No.gif) |
+|                Predicting "Yes" (Buy)                |            Predicting "No" (Do Not Buy)            |
+| :--------------------------------------------------: | :------------------------------------------------: |
+| ![App Interface UI - Yes Prediction](assets/Yes.gif) | ![App Interface UI - No Prediction](assets/No.gif) |
+
+## How to Run Locally
+
+1. Clone this repository to your local machine.
+2. Open your terminal and navigate to the project folder.
+3. Install the required dependencies by running:
+   `pip install -r requirements.txt`
+4. Start the application by running:
+   `streamlit run app.py`
 
 ## Conclusion
 
